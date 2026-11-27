@@ -1055,13 +1055,13 @@ export default function App() {
         <header className="glass-card panel-shine rounded-[2rem] p-5 sm:p-8">
           <div className="flex flex-col gap-6 xl:flex-row xl:items-center xl:justify-between">
             <div className="max-w-3xl space-y-4">
-              <div className="info-pill w-fit">Campagne progressive · IA adaptative · audio spatial</div>
+              <div className="info-pill w-fit">Campagne progressive · IA à trois niveaux · audio stéréo</div>
               <div>
                 <h1 className="text-4xl font-black tracking-tight text-white sm:text-5xl lg:text-6xl">
                   Conquête de Cases
                 </h1>
                 <p className="mt-3 max-w-2xl text-sm leading-7 text-slate-300 sm:text-base">
-                  Une version premium de Dots and Boxes : tout est en français, les graphismes sont enrichis,
+                  Une version enrichie de Dots and Boxes : tout est en français, les graphismes sont enrichis,
                   les animations sont plus vivantes, la musique d'ambiance est générée en direct et chaque niveau
                   augmente progressivement la difficulté.
                 </p>
